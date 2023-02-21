@@ -1,7 +1,7 @@
 ## Case Study: BellaBeat Fitness
 
 ### About Company 
-Bellabeat is a high tech company that manufactures health-focused smart products which inspireand inform women around world. Since it was founded in 2013, Bellabeat has grown dramatically as a tech-driven wellness company for women. By 2016, Bellabeat had opened office around the world and launched multiple products such as Bellabeat app, leaf, time and spring. Bellabeat products are available through online retailers in addition to their own e-commerce website.
+Bellabeat is a high tech company that manufactures health-focused smart products which inspire and inform women around world. Since it was founded in 2013, Bellabeat has grown dramatically as a tech-driven wellness company for women. By 2016, Bellabeat had opened office around the world and launched multiple products such as Bellabeat app, leaf, time and spring. Bellabeat products are available through online retailers in addition to their own e-commerce website.
 
 
 ### Google Data Analytics Capstone: Case Study 2
